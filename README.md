@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### 우주 최고 귀요미 코더 유경미님이시다! 👋
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+![Badge](https://img.shields.io/badge/{ label }-{ message }.svg?{ style(optional) }&logo={ logoname }&logoColor={ logo color(optional) })
 <!--
 **YooKyungmi/yookyungmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
