@@ -1,6 +1,6 @@
 ### 우주 최고 귀요미 코더 유경미님이시다! 👋
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/github/followers/yookyungmi?style=social">
 
 <a href="https://instagram.com">
