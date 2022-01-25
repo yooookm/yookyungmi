@@ -9,12 +9,12 @@
 </a>
 <a href="https://naver.comr">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://naver.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <div>
     <img 
-        src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlpoxDev"
+        src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/YooKyungmi"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     <img 
         src="https://img.shields.io/github/followers/YooKyungmi?label=YooKyungmi%20Followers&style=social"
