@@ -1,14 +1,13 @@
 ### 우주 최고 귀요미 코더 유경미님이시다! 👋
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/github/followers/yookyungmi?style=social">
 
 <a href="https://instagram.com">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://alpox.kr">
+<a href="https://naver.comr">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
@@ -18,7 +17,7 @@
         src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlpoxDev"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     <img 
-        src="https://img.shields.io/github/followers/AlpoxDev?label=AlpoxDev%20Followers&style=social"
+        src="https://img.shields.io/github/followers/YooKyungmi?label=YooKyungmi%20Followers&style=social"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
