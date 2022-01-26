@@ -10,7 +10,7 @@
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://github.com/YooKyungmi"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://naver.comr">
+<a href="https://naver.com">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://naver.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
