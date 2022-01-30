@@ -30,8 +30,6 @@
 
 ## Stack
 
-caution! 배울 예정
-
 - React.js
 - Node.js
 - JavaScript
