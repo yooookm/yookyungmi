@@ -1,4 +1,4 @@
-### 우주 최고 귀요미 코더 유경미님이시다! 👋
+### Yookyungmi GitHub
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
@@ -30,13 +30,11 @@
 
 ## Stack
 
-- React.js
-- Node.js
 - JavaScript
-- NoSQL
 - MySQL
 - Python
 - Django
+- Springboot
 
 <!--
 **YooKyungmi/yookyungmi** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
