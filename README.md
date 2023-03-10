@@ -26,7 +26,7 @@
 
 ## YooKyeongmi : Backend Programmer
 
-백엔드와 알고리즘에 관심이 많은 우주 최고 귀요미 코더 유경미입니다. 
+백엔드와 알고리즘에 관심이 많은 유경미입니다. 
 
 ## Stack
 
