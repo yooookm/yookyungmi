@@ -33,7 +33,6 @@
 - JavaScript
 - MySQL
 - Python
-- Django
 - Springboot
 
 <!--
