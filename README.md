@@ -30,7 +30,7 @@
 
 ## Stack
 
-- JavaScript
+- Java
 - MySQL
 - Python
 - Springboot
